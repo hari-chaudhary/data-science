@@ -1,2 +1,2 @@
-print ("hari krishna")
+print ("hari")
 print ("chaudhary")
